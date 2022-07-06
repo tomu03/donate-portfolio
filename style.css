@@ -1,0 +1,38 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+}
+p{
+    font-size: 25px ;
+}
+
+.title {
+    text-align: center;
+    color: white;
+    
+    
+}
+#setup-look{
+    padding-top: 10% ;
+}
+.header {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+
+.donate-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+
+
+}
